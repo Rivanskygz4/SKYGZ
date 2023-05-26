@@ -1,2 +1,2 @@
-# SKYGZ
-Repository untuk menyimpan rencana SKYGZ kedepannya
+# RIVAN
+Repository untuk menyimpan rencana RIVAN kedepannya
